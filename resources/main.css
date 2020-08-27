@@ -1,0 +1,28 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding: 0;
+}
+
+.abstract-wrapper{
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 5%;
+}
+
+.titles-wrapper{
+    width: 500px;
+    height: 100px;
+    padding-top:5% ;
+}
+    
+.titles-wrapper img {
+    width: 100%;
+    height: auto;
+}
