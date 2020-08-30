@@ -73,8 +73,8 @@ header {
 
 }
 .center-wrapper{
-    height: 250px;
-    width: 500px;
+    height: 100%;
+    width: 40%;
     border: 6px solid #fff;
     display: flex;
     flex-direction: column;
@@ -101,12 +101,12 @@ header {
     padding-top: 2%;
 }
 .Second-title-center-wrapper{
-    right: 34%;
+    right: 32%;
     top: 10%;
 }
 .left-corner-center-wrapper{
-    bottom: 12%;
-    left: 34%;
+    bottom: 10%;
+    left: 32%;
 }
 
 .left-corner-wrapper, 
