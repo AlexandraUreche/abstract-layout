@@ -41,7 +41,7 @@ header {
     position: absolute;
 }
 
-
+/* apreciez gruparea!! */
 .First-title-wrapper img, 
 .Second-title-wrapper img, 
 .center-title-wrapper img {
@@ -60,6 +60,8 @@ header {
     width: auto;
     height: 100%;
 }
+
+/* bravo! o centrare perfecta! apreciez ca nu ai folosit tehnicile de pozitionare aici. */
 .central-container{
     height: 40%;
     display: flex;
